@@ -1,0 +1,8 @@
+*.exe
+*.o
+*~
+bin/
+obj/
+*.depend
+*.layout
+.git/
